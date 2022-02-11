@@ -17,10 +17,6 @@ const renderer = {
 };
 
 export const Playground = (props) => {
-  useEffect(() => {
-    console.log(props.code);
-  }, []);
-
   return (
     <main>
       <Allotment>

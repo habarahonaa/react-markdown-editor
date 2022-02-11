@@ -1,0 +1,28 @@
+.mobileModal {
+  background-color: #c4c4c4;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 0 auto;
+  margin-top: 2.5rem;
+  max-width: 70%;
+  padding: 6rem 2rem;
+  text-align: center;
+}
+
+.danger {
+  color: #df4759;
+  margin-bottom: 15px;
+}
+
+.mobileModal h3 {
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.mobileModal p {
+  max-width: 90%;
+  margin: 0 auto;
+}
